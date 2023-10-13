@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raykon1221, APU Year 1 Student studying CS.
-- 👀 I’m interested in many things.
+- 👀 I’m interested in arts, games, and sports.
 - 🌱 I’m currently learning about JavaScript, TailwindCSS, and HTML.
 - 📫 How to reach me? (My twitter, @XinRou490667202) 
 

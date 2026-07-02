@@ -41,14 +41,14 @@
 ### 📊 My Coding Journey
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raykon1221&show_icons=true&theme=gruvbox" alt="Xin Rou's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raykon1221&layout=compact&theme=gruvbox" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=raykon1221&show_icons=true&theme=gruvbox" alt="Xin Rou's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raykon1221&layout=compact&theme=gruvbox" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Socials:
 
-Let's build something awesome!
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/XinRou490667202.svg?style=social&label=Follow%20%40XinRou490667202)](https://twitter.com/XinRou490667202)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-xin-rou-77b730262/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xinrou_1221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xinrou1961@gmail.com)
